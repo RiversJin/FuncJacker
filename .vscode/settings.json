@@ -1,0 +1,6 @@
+{
+    "clangd.checkUpdates": true,
+    "clangd.arguments": [
+        "--compile-commands-dir=${workspaceFolder}/build"
+    ]
+}
